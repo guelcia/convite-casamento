@@ -1,7 +1,7 @@
 @import url('https://googleapis.com');
 
 :root {
-  --bg: #274336;          /* Verde esmeralda bem escuro para o fundo geral */
+  --bg: #2b5340;          /* Verde esmeralda bem escuro para o fundo geral */
   --paper: #ffffff;       /* Fundo do convite interno para manter leitura limpa */
   --rose: #b99a72;        /* Transicionado para Dourado Médio */
   --rose-dark: #1a3327;   /* Verde Esmeralda Fechado para elementos fortes */
